@@ -1,4 +1,4 @@
-# Hi, I'm Kristern Lim Yu Xi 👋
+# Hi, I'm Kristern 👋
 
 ### Software Engineering Student | Universiti Malaya
 
@@ -13,6 +13,8 @@ I'm continuously learning about software design, backend development, database m
 * 🌱 Currently improving my skills in programming, debugging, and software maintenance
 * 🤝 Learning to build better software through collaboration and code reviews
 
+Through the Software Maintenance and Evolution course, I hope to improve my understanding of maintaining existing software, identifying and fixing bugs, and mastering tools like Git and GitHub.
+
 ## 🛠️ Technologies & Tools
 
 <p align="left">
@@ -23,7 +25,8 @@ I'm continuously learning about software design, backend development, database m
 
 * GitHub: [@kristern1257](https://github.com/kristern1257)
 
-![My Image](me.jpg)
+and my fav meme
+![My Image](cat.png)
 
 <!--
 **kristern1257/kristern1257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
